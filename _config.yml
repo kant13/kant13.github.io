@@ -1,6 +1,6 @@
 title: "Блог у стилі ReadTheDocs"
 description: "Блог з підтримкою коду та формул"
-remote_theme: just-the-docs/jekyll-rtd-theme
+remote_theme: pmarsceill/just-the-docs
 markdown: kramdown
 highlighter: rouge
 plugins:
