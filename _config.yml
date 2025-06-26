@@ -1,5 +1,7 @@
-title: "Мій простий блог"
-description: "Блог з підтримкою формул і підсвіткою коду"
-theme: minima
+title: "Блог у стилі ReadTheDocs"
+description: "Блог з підтримкою коду та формул"
+remote_theme: just-the-docs/jekyll-rtd-theme
 markdown: kramdown
 highlighter: rouge
+plugins:
+  - jekyll-remote-theme
