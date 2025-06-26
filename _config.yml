@@ -1,8 +1,5 @@
-title: "Мій блог"
-theme: jekyll-theme-hydejack
+title: "Мій простий блог"
+description: "Блог з підтримкою формул і підсвіткою коду"
+theme: minima
 markdown: kramdown
 highlighter: rouge
-kramdown:
-  math_engine: katex
-plugins:
-  - jekyll-include-cache
